@@ -1,0 +1,8 @@
+{
+  "name": "experiences",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.leaf.com:Leaf-group-us/experiences.git",
+  "author": "Edison Sanchez",
+  "license": "MIT"
+}
